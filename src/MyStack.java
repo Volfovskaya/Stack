@@ -30,7 +30,7 @@ public class MyStack {
             my.push(i);
 
             if (i == 7) {
-                System.out.println("Элемент на вершине стека: " + my.peek());
+                System.out.println("Элемент на верхушке стека: " + my.peek());
             }
         }
 
